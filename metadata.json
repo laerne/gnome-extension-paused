@@ -1,0 +1,6 @@
+{
+    "uuid": "paused@nicolas.brack.mail.be",
+    "name": "paused",
+    "description": "If while streaming you need to go AFK, click this button and have nice notification pop-up.",
+    "shell-version": ["3.18.4"]
+}
